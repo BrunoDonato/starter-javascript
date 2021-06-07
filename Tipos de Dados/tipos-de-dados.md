@@ -18,3 +18,5 @@
 
 > Vamos aprender os tipos de dados mais utilizados na linguagem
     * Você sabia que é possível aprender 80% de uma linguagem com apenas 20% do vocabulário? (Ou até menos)
+
+
